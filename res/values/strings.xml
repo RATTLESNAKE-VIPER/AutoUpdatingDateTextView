@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoUpdatingDateTextView</string>    
+    
+    <string name="time_ago_prefix"></string>
+    <string name="time_ago_suffix">ago</string>
+    
+    <string name="time_ago_second">Just now</string>
+    <string name="time_ago_seconds">%d seconds</string>    
+    <string name="time_ago_minute">A minute</string>
+    <string name="time_ago_minutes">%d minutes</string>
+    <string name="time_ago_hour">An hour</string>
+    <string name="time_ago_hours">%d hours</string>
+    <string name="time_ago_day">Yesterday</string>
+    <string name="time_ago_days">%d days</string>
+    <string name="time_ago_week">Last week</string>    
+    <string name="time_ago_weeks">%d weeks</string> 
+    <string name="time_ago_month">Last month</string>
+    <string name="time_ago_months">%d months</string>
+    <string name="time_ago_year">Last year</string>
+    <string name="time_ago_years">%d years</string>
+
+</resources>
