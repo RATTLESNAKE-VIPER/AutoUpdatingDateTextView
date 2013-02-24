@@ -11,3 +11,5 @@ It can be used to show relative date(5 seconds ago, A minute ago, Last week, etc
 		AutoUpdatingDateTextView dateTextView = new AutoUpdatingDateTextView(this);
 		dateTextView.setDate(new Date());
 
+### License
+http://gautam.mit-license.org/
